@@ -9,3 +9,19 @@ h2 {
 p{
     background-color: powderblue;
 }
+
+.rap {
+    background-color: powderblue;
+    padding: 40px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.rap2 {
+    color: white;
+    background-color: rgb(4, 8, 32);
+    text-align: center;
+    text-align: justify;
+    padding: 30px;
+    margin-top: 23px;
+}
